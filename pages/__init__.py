@@ -1,1 +1,1 @@
-__all__ = ['homepage']
+__all__ = ['login_page', 'globals']
